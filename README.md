@@ -3,7 +3,7 @@ This is all about how to draw flowchart using html and javascript by just drag a
 
 Download the code and Enjoy...!!!!!
 
-For Demo Please visit : https://flowchart.stackblitz.io
+For Demo Please visit : https://technicalheist.github.io/flowchart/
 
 
 
